@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Robert Marty</title>
-    <link>https://example.com/publications/</link>
+    <link>https://ramarty.github.io/publications/</link>
     <description>Recent content in Publications on Robert Marty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramarty.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assessing the causal impact of Chinese aid on vegetative land cover in Burundi and Rwanda under conditions of spatial imprecision</title>
-      <link>https://example.com/publications/geosimex/</link>
+      <link>https://ramarty.github.io/publications/geosimex/</link>
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/geosimex/</guid>
+      <guid>https://ramarty.github.io/publications/geosimex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of aid on health outcomes in Uganda</title>
-      <link>https://example.com/publications/ugandahealthaid/</link>
+      <link>https://ramarty.github.io/publications/ugandahealthaid/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/ugandahealthaid/</guid>
+      <guid>https://ramarty.github.io/publications/ugandahealthaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Top-Down Approach to Estimating Spatially Heterogeneous Impacts of Development Aid on Vegetative Carbon Sequestration</title>
-      <link>https://example.com/publications/carbonsequestration/</link>
+      <link>https://ramarty.github.io/publications/carbonsequestration/</link>
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/carbonsequestration/</guid>
+      <guid>https://ramarty.github.io/publications/carbonsequestration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taking the health aid debate to the subnational level: the impact and allocation of foreign health aid in Malawi</title>
-      <link>https://example.com/publications/malawihealthaid/</link>
+      <link>https://ramarty.github.io/publications/malawihealthaid/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/malawihealthaid/</guid>
+      <guid>https://ramarty.github.io/publications/malawihealthaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survival Analysis of Regional Unemployment in Uganda: Evidence from the Uganda National Panel Survey (UNPS)</title>
-      <link>https://example.com/publications/ugandasurvivalanalysis/</link>
+      <link>https://ramarty.github.io/publications/ugandasurvivalanalysis/</link>
       <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/ugandasurvivalanalysis/</guid>
+      <guid>https://ramarty.github.io/publications/ugandasurvivalanalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developing Conceptual and Methodological Foundations in Community Engagement</title>
-      <link>https://example.com/publications/somos/</link>
+      <link>https://ramarty.github.io/publications/somos/</link>
       <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/somos/</guid>
+      <guid>https://ramarty.github.io/publications/somos/</guid>
       <description></description>
     </item>
     
